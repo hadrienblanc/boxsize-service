@@ -1,8 +1,7 @@
-# BoxSize micro-service
-(Docker - Makefile - golang.)
+# BoxSize Service
+(Docker - Makefile - golang)
 
-BoxSize is a micro-service in golang to compute the volume contain inside a box :)
-
+BoxSize is a golang micro-service to compute the volume contains inside a box.
 
 It accepts tree integers as parameters : _height_, _width_, _length_.
 
